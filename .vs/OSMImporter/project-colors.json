@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "0669c189-2cdb-43a9-8f8e-7a5e6ebe1fee": {
+      "ProjectGuid": "0669c189-2cdb-43a9-8f8e-7a5e6ebe1fee",
+      "DisplayName": "OverpassAPI",
+      "ColorIndex": 0
+    },
+    "b6bab66e-0ae4-4d0a-af57-4e69cbb5db8f": {
+      "ProjectGuid": "b6bab66e-0ae4-4d0a-af57-4e69cbb5db8f",
+      "DisplayName": "OSMImporter",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
